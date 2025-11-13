@@ -315,33 +315,8 @@ Turnaround Time = 7 - 0 = 7 unidades de tiempo
 Throughput = 10 / 50 = 0.2 procesos/unidad de tiempo
 ```
 
-## 🛠️ Extensiones Posibles
 
-### Mejoras Futuras
 
-1. **Algoritmos de Planificación Adicionales**:
-   - FCFS (First Come First Served)
-   - Round Robin
-   - Priority Scheduling
-
-2. **Algoritmos de Memoria Adicionales**:
-   - First-Fit
-   - Worst-Fit
-   - Next-Fit
-
-3. **Gestión de Memoria Dinámica**:
-   - Particiones variables
-   - Compactación de memoria
-
-4. **Visualización Avanzada**:
-   - Gráficos de Gantt
-   - Diagramas de estado
-   - Animaciones
-
-5. **Métricas Adicionales**:
-   - Tiempo de respuesta
-   - Utilización de CPU
-   - Tasa de fragmentación
 
 ## 📝 Notas de Implementación
 
@@ -360,5 +335,5 @@ Throughput = 10 / 50 = 0.2 procesos/unidad de tiempo
 ---
 
 **Versión**: 1.0  
-**Fecha**: 2024
+**Fecha**: 2025
 
