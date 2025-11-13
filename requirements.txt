@@ -1,0 +1,7 @@
+# Dependencias del Simulador de Asignación de Memoria y Planificación de Procesos
+
+# Biblioteca para visualización de tablas (opcional pero recomendado)
+tabulate>=0.9.0
+
+# Nota: El simulador funcionará sin tabulate, pero con visualización básica
+
