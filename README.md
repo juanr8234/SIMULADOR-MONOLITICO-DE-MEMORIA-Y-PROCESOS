@@ -231,7 +231,7 @@ IDP,TAM,TA,TI
 
 **Resultado esperado:**
 - Proceso 1 llega en tiempo 0
-- Se asigna a partición 1 (250KB)
+- Se asigna a partición 2 (150KB)
 - Ejecuta durante 5 unidades de tiempo
 - Termina en tiempo 5
 
